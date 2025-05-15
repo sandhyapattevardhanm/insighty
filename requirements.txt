@@ -1,0 +1,12 @@
+
+#accelerate
+
+#python-dotenv   # for loading environment variables
+#altair
+
+streamlit
+pandas
+numpy
+transformers
+torch
+nest_asyncio
