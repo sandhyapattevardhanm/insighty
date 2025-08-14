@@ -1,8 +1,4 @@
 
-#accelerate
-
-#python-dotenv   # for loading environment variables
-#altair
 
 streamlit
 pandas
